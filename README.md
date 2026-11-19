@@ -1,16 +1,29 @@
-## Hi there 👋
+# Raban Funk
 
-<!--
-**f89pkdtkhw-lab/f89pkdtkhw-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Management & Technology · Technical University of Munich**
 
-Here are some ideas to get you started:
+I build software and explore emerging technologies at the intersection of engineering, artificial intelligence and entrepreneurship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of focus
+
+| Area | Focus |
+| --- | --- |
+| Artificial intelligence | Applied AI and intelligent software systems |
+| Software engineering | Full-stack development and rapid prototyping |
+| Autonomous systems | Robotics and industrial technology |
+| Quantitative research | Data analysis and evidence-driven experimentation |
+
+## Technical toolkit
+
+`Python` · `TypeScript` · `React` · `Next.js` · `PostgreSQL` · `Supabase`
+
+## Selected public work
+
+**[Prediction Markets → Stocks](https://github.com/f89pkdtkhw-lab/prediction-market-stock-research)**  
+An exploratory quantitative research showcase focused on financial data and statistical evaluation.
+
+## Beyond the code
+
+Interested in interdisciplinary collaboration, challenging engineering problems and building technology with practical impact.
+
+Most ongoing development is conducted in private repositories. Public material is shared selectively.
